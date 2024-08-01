@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عزیزم</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f9fa;
+            text-align: center;
+        }
+        img {
+            width: 200px;
+            height: auto;
+        }
+        h1 {
+            color: #e84393;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://example.com/flower.jpg" alt="گل">
+    <h1>عزیزم خیلی دوست دارم</h1>
+</body>
+</html>
